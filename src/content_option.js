@@ -67,7 +67,7 @@ const contactConfig = {
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_0o5qhes",
-    YOUR_TEMPLATE_ID: "service_0o5qhes",
+    YOUR_TEMPLATE_ID: "template_17ziz0a",
     YOUR_USER_ID: "0Hp0Bc1bc0qJqwr1j",
 };
 
