@@ -66,9 +66,9 @@ const contactConfig = {
     YOUR_FONE: "",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_pivrb2o",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_0o5qhes",
+    YOUR_TEMPLATE_ID: "service_0o5qhes",
+    YOUR_USER_ID: "0Hp0Bc1bc0qJqwr1j",
 };
 
 const socialprofils = {
